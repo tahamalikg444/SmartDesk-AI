@@ -48,6 +48,7 @@ Data Processing: Pandas
 Web Application: Streamlit
 Database: SQLite
 Visualization: Matplotlib
+
 7. Expected Outcomes
 
 The expected outcome is a working prototype that allows users to submit IT support tickets, predicts their categories and priorities, and provides administrators with ticket management and reporting features.
