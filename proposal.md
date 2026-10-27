@@ -15,13 +15,16 @@ SmartDesk AI is a proposed web-based system that uses machine learning to classi
 Manual classification and prioritization of IT support tickets can be inefficient, particularly when many requests are received. A system that assists in categorizing tickets and estimating their priority could help support staff organize and manage requests more efficiently.
 
 3. Objectives
+
 Develop a web-based IT helpdesk ticket management system.
 Use machine learning to classify ticket descriptions into predefined categories.
 Predict ticket priority using available labeled data.
 Provide an interface for users and administrators to manage tickets.
 Store ticket records and display summary reports.
 Evaluate the machine learning model using appropriate performance metrics.
+
 4. Proposed Features
+
 User ticket submission.
 Automatic ticket category prediction.
 Priority prediction, such as low, medium, or high.
@@ -29,6 +32,7 @@ Ticket status tracking.
 Administrator dashboard.
 Ticket search and filtering.
 Basic reports and visualizations.
+
 5. Proposed Methodology
 
 The project will follow these stages:
@@ -40,6 +44,7 @@ Train and compare suitable machine learning classifiers.
 Evaluate model performance using precision, recall, F1-score, and a confusion matrix.
 Develop a web application and integrate the trained model.
 Test the application and document the results.
+
 6. Proposed Technologies
 
 Programming Language: Python
